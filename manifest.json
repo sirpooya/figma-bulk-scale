@@ -1,18 +1,13 @@
 {
-  "name": "Frame It",
+  "name": "Bulk scale",
   "id": "847762563509209322",
   "api": "1.0.0",
   "main": "code.js",
-  "ui": "ui.html",
   "editorType": ["figma"],
   "menu": [
     {
-      "name": "Frame Selected > Custom",
-      "command": "frame-with-ui"
-    },
-    {
-      "name": "Frame Selected > Automatically",
-      "command": "frame-using-layer-size"
+      "name": "Bulk scale",
+      "command": "set-constraints-scale"
     }
   ]
 }
