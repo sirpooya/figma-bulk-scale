@@ -1,4 +1,4 @@
-![Icon](icon.png)
+![Icon](icon.png){width="48" height="48"}
 
 ![Promo Video](promo.mp4)
 
