@@ -1,13 +1,6 @@
 {
   "name": "Bulk scale",
-  "id": "847762563509209322",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": ["figma"],
-  "menu": [
-    {
-      "name": "Bulk scale",
-      "command": "set-constraints-scale"
-    }
-  ]
+  "editorType": ["figma"]
 }
