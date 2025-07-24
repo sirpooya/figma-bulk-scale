@@ -1,4 +1,4 @@
-<img src="icon.png" width="48" height="48" alt="Icon">
+<img src="plugin-icon.png" width="48" height="48" alt="Icon">
 
 ![Promo Video](promo.gif)
 
